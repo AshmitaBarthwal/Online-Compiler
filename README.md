@@ -1,6 +1,6 @@
 # Online Compiler Project
 
-This is an online compiler built using HTML, CSS, JavaScript, and Node.js. The project supports compiling and running code written in C++, Java, and Python. 
+This is a basic web-based  compiler built using HTML, CSS, JavaScript, and Node.js. The project supports compiling and running code written in C++, Java, and Python. 
 
 ## Features
 
