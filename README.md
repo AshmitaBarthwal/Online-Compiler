@@ -53,3 +53,13 @@ This is an online compiler built using HTML, CSS, JavaScript, and Node.js. The p
  4 Provide input if required in the input textarea.<br>
  5 Click the run button to compile and run the code.<br>
  6 View the output in the output textarea.<br>
+
+## Contributions-
+ Contributions are welcome! If you have suggestions for improving the functioning, features and working  please follow these guidelines:
+
+-Fork the repository.
+-Create a new branch (git checkout -b feature/improvement).
+-Make your changes.
+-Commit your changes (git commit -am 'Add feature/improvement').
+-Push to the branch (git push origin feature/improvement).
+-Create a new Pull Request.
