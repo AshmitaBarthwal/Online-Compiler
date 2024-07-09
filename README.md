@@ -47,9 +47,9 @@ This is an online compiler built using HTML, CSS, JavaScript, and Node.js. The p
  - codemirror-5.65.9: Directory containing CodeMirror library files.
 
 ## Usage
- 1 Open the application in your browser.
- 2 Select a programming language from the dropdown menu.
- 3 Write your code in the code editor.
- 4 Provide input if required in the input textarea.
- 5 Click the run button to compile and run the code.
- 6 View the output in the output textarea.
+ 1 Open the application in your browser. <br>  
+ 2 Select a programming language from the dropdown menu.<br>
+ 3 Write your code in the code editor.<br>
+ 4 Provide input if required in the input textarea.<br>
+ 5 Click the run button to compile and run the code.<br>
+ 6 View the output in the output textarea.<br>
