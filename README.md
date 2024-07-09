@@ -28,12 +28,14 @@ This is an online compiler built using HTML, CSS, JavaScript, and Node.js. The p
    ```bash
    git clone https://github.com/your-username/online-compiler.git
    cd online-compiler
+
    
-2.Install the dependencies:
+ 2.Install the dependencies:
     
     npm install express body-parser compilex
+
     
-3.Download and include CodeMirror library in the project:
+ 3.Download and include CodeMirror library in the project:
       Place the codemirror-5.65.9 directory in the root folder of your project. You can download it from the CodeMirror website.
 
 ## Running the Application
