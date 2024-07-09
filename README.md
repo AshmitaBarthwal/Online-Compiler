@@ -55,11 +55,11 @@ This is an online compiler built using HTML, CSS, JavaScript, and Node.js. The p
  6 View the output in the output textarea.<br>
 
 ## Contributions-
- Contributions are welcome! If you have suggestions for improving the functioning, features and working  please follow these guidelines:
+ Contributions are welcome! If you have suggestions for improving the functioning, features and working  please follow these guidelines:<br>
 
--Fork the repository.
--Create a new branch (git checkout -b feature/improvement).
--Make your changes.
--Commit your changes (git commit -am 'Add feature/improvement').
--Push to the branch (git push origin feature/improvement).
--Create a new Pull Request.
+-Fork the repository.<br>
+-Create a new branch (git checkout -b feature/improvement).<br>
+-Make your changes.<br>
+-Commit your changes (git commit -am 'Add feature/improvement').<br>
+-Push to the branch (git push origin feature/improvement).<br>
+-Create a new Pull Request.<br>
